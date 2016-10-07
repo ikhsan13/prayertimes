@@ -98,7 +98,6 @@ class Nav extends Component {
                          onPress={() => {
                            _route=routes[1];
                            navigator.push(routes[1]);
-                           console.log(_route);
                          }}
                          style={styles.navBarRightButton}>
                          <Text style={[styles.navBarText, styles.navBarButtonText]}>

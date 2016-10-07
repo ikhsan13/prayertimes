@@ -1,4 +1,4 @@
-package com.prayertimes;
+package com.gardencoder.prayertimes;
 
 import com.facebook.react.ReactActivity;
 
